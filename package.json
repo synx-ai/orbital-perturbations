@@ -1,0 +1,14 @@
+{
+  "name": "space-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Rivera <carlos@synx.co>",
+  "license": "MIT",
+  "dependencies": {
+    "orb.js": "0.0.14"
+  }
+}
